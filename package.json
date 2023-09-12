@@ -1,0 +1,23 @@
+{
+  "name": "jamkit-node-bridge",
+  "version": "0.0.1",
+  "description": "A Node module that bridges to Jamkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookjam/jamkit-node-bridge.git"
+  },
+  "keywords": [
+    "jamkit",
+    "node"
+  ],
+  "author": "Hanyeol Cho <hanyeol.cho@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bookjam/jamkit-node-bridge/issues"
+  },
+  "homepage": "https://github.com/bookjam/jamkit-node-bridge#readme"
+}
